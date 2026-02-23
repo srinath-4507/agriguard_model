@@ -1,0 +1,5 @@
+Flask==2.3.3 # Or current version
+tensorflow==2.15.0 # Or current version you are using
+numpy==1.25.2 # Or current version
+Pillow==10.1.0 # Or current version
+gunicorn==21.2.0 # For production web server
